@@ -1,0 +1,12 @@
+
+## Usage
+How to run training and prediction scripts.
+
+## Data
+Description of the dataset used and preprocessing steps.
+
+## Results
+Summary of model performance and key findings.
+
+## Author
+Your name and contact info.
